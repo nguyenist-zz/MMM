@@ -1,0 +1,2533 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="GIS_ID" type="string"></SimpleField>
+	<SimpleField name="WEB_URL" type="string"></SimpleField>
+	<SimpleField name="EXIT_TO_ST" type="string"></SimpleField>
+	<SimpleField name="FEATURECOD" type="string"></SimpleField>
+	<SimpleField name="DESCRIPTIO" type="string"></SimpleField>
+	<SimpleField name="CAPTUREYEA" type="string"></SimpleField>
+	<SimpleField name="LINE" type="string"></SimpleField>
+	<SimpleField name="ADDRESS_ID" type="string"></SimpleField>
+</Schema>
+<Folder><name>OGRGeoJSON</name>
+  <Placemark>
+	<name>Farragut West</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="GIS_ID">mstn_013</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=38</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SE CORNER OF 17TH STREET NW AND I STREET NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, orange</SimpleData>
+		<SimpleData name="ADDRESS_ID">294819</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.039344688100826,38.901252418961882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Foggy Bottom | GWU</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="GIS_ID">mstn_016</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=40</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NW CORNER OF 23RD STREET NW AND I STREET NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, orange</SimpleData>
+		<SimpleData name="ADDRESS_ID">294821</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.05046474599574,38.900902890115148</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Minnesota Ave</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="GIS_ID">mstn_025</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=64</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NW SIDE OF MINNESOTA AVENUE NE</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">orange</SimpleData>
+		<SimpleData name="ADDRESS_ID">294856</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.946750672101714,38.898762647363583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Metro Center</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="GIS_ID">mstn_024</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=1</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SE CORNER OF G STREET NW AND 11TH STREET NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red, blue, orange</SimpleData>
+		<SimpleData name="ADDRESS_ID">294812</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.02681716120378,38.898163801523836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Union Station</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="GIS_ID">mstn_037</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=25</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF 1ST STREET NE AND MASSACHUSETTS AVENUE NE</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="ADDRESS_ID">294849</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.007202074090259,38.897492192704618</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Judiciary Sq</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="GIS_ID">mstn_021</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=23</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF 4TH STREET NW AND INDIANA AVENUE NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="ADDRESS_ID">294829</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.015987031673106,38.895321817776299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Federal Triangle</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">7</SimpleData>
+		<SimpleData name="GIS_ID">mstn_015</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=53</SimpleData>
+		<SimpleData name="EXIT_TO_ST">RONALD REAGAN BUILDING - WEST SIDE OF 12TH STREET NW BETWEEN PENNSYLVANIA AVENUE NW AND CONSTITUTION AVENUE NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, orange</SimpleData>
+		<SimpleData name="ADDRESS_ID">294809</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.028658008467275,38.893810314188819</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Archives | Navy Mem</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="GIS_ID">mstn_027</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=81</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NW CORNER OF 7TH STREET NW AND PENNSYLVANIA AVENUE NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green,yellow</SimpleData>
+		<SimpleData name="ADDRESS_ID">294835</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.022439658900183,38.893944169453682</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>L'Enfant Plaza</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="GIS_ID">mstn_022</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=82</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SE CORNER OF 7TH STREET SW AND MARYLAND AVENUE SW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green, yellow, orange, blue</SimpleData>
+		<SimpleData name="ADDRESS_ID">294875</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.021577494843342,38.886254898940749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Smithsonian</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">10</SimpleData>
+		<SimpleData name="GIS_ID">mstn_033</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=54</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SW CORNER OF INDEPENDENCE AVENUE SW AND 12TH STREET SW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, orange</SimpleData>
+		<SimpleData name="ADDRESS_ID">294876</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.028456629995517,38.887254869205101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stadium | Armory</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="GIS_ID">mstn_034</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=63</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF 19TH STREET SE AND C STREET SE</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, orange</SimpleData>
+		<SimpleData name="ADDRESS_ID">294863</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.977045780664568,38.885663092807725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Capitol South</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="GIS_ID">mstn_004</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=59</SimpleData>
+		<SimpleData name="EXIT_TO_ST">WEST SIDE OF 1ST STREET SE BETWEEN C STREET SE AND D STREET SE</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, orange</SimpleData>
+		<SimpleData name="ADDRESS_ID">294860</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.006054623143214,38.885569792133793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eastern Market</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">13</SimpleData>
+		<SimpleData name="GIS_ID">mstn_011</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=60</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SOUTH SIDE OF PENNSYLVANIA AVENUE SE BETWEEN 7TH STREET SE AND 8TH STREET SE</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, orange</SimpleData>
+		<SimpleData name="ADDRESS_ID">294870</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.995815295987583,38.884252866505847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Potomac Ave</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">14</SimpleData>
+		<SimpleData name="GIS_ID">mstn_030</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=61</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF 14TH STREET SE AND POTOMAC AVENUE SE</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, orange</SimpleData>
+		<SimpleData name="ADDRESS_ID">294861</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.985173690169702,38.880846532637847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Navy Yard-Ballpark</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">15</SimpleData>
+		<SimpleData name="GIS_ID">mstn_028</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=84</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NW CORNER OF NEW JERSEY AVENUE SE AND M STREET SE</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green</SimpleData>
+		<SimpleData name="ADDRESS_ID">294869</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.00449748290545,38.876676752608475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Waterfront</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">16</SimpleData>
+		<SimpleData name="GIS_ID">mstn_039</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=83</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF M STREET SW AND 4TH STREET SW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green</SimpleData>
+		<SimpleData name="ADDRESS_ID">294877</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.017557564241343,38.876962022232696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Friendship Heights Elevator</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">17</SimpleData>
+		<SimpleData name="GIS_ID">mstn_018</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=11</SimpleData>
+		<SimpleData name="EXIT_TO_ST">WEST SIDE OF WISCONSIN AVENUE NW BETWEEN JENIFER STREET NW AND INGOMAR STREET NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="ADDRESS_ID">294847</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.085005757497541,38.958902212966073</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gallery Pl | Chinatown Elevator</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="GIS_ID">mstn_019</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=21</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF 7TH STREET NW AND F STREET NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red, green, yellow</SimpleData>
+		<SimpleData name="ADDRESS_ID">294833</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.021749155563384,38.897845473117094</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Judiciary Sq NE Elevator</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">19</SimpleData>
+		<SimpleData name="GIS_ID">mstn_021</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=23</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SOUTH SIDE OF F STREET NW BETWEEN 4TH STREET NW AND 5TH STREET NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="ADDRESS_ID">294829</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.017452500690837,38.896829713881566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Judiciary Sq SW Elevator</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">20</SimpleData>
+		<SimpleData name="GIS_ID">mstn_021</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=23</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SOUTH SIDE OF F STREET NW BETWEEN 4TH STREET NW AND 5TH STREET NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="ADDRESS_ID">294829</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.017656541061456,38.896653702540377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>L'Enfant Plaza Elevator</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">21</SimpleData>
+		<SimpleData name="GIS_ID">mstn_022</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=82</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SW CORNER OF 7TH STREET SW AND MARYLAND AVENUE SW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green, yellow, orange, blue</SimpleData>
+		<SimpleData name="ADDRESS_ID">294875</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.022100012014604,38.885985398230893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Potomac Ave Elevator</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">22</SimpleData>
+		<SimpleData name="GIS_ID">mstn_030</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=61</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SE CORNER OF 14TH STREET SE ANDG STREET SE</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, orange</SimpleData>
+		<SimpleData name="ADDRESS_ID">294861</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.985107975447534,38.881071083750982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Smithsonian Elevator</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">23</SimpleData>
+		<SimpleData name="GIS_ID">mstn_033</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=54</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NW CORNER OF INDEPENDENCE AVENUE SW AND 12TH STREET SW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, orange</SimpleData>
+		<SimpleData name="ADDRESS_ID">294876</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.028535901562222,38.887756963490283</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stadium | Armory Elevator</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">24</SimpleData>
+		<SimpleData name="GIS_ID">mstn_034</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=63</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SE CORNER OF 19TH STREET SE AND BURKE STREET SE</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, orange</SimpleData>
+		<SimpleData name="ADDRESS_ID">294863</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.977154106597894,38.885928715526042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Takoma Elevator</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">25</SimpleData>
+		<SimpleData name="GIS_ID">mstn_035</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=29</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE SIDE OF CEDAR STREET NW AND BLAIR ROAD NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="ADDRESS_ID">294822</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.017823974562191,38.975888909228708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Van Ness | UDC Elevator</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">26</SimpleData>
+		<SimpleData name="GIS_ID">mstn_038</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=9</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SW CORNER OF CONNECTICUT AVENUE AND VEAZEY STREET NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="ADDRESS_ID">294824</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.063580987588708,38.943970191406528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Woodley Park Zoo | Adams Morgan Elevator</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">27</SimpleData>
+		<SimpleData name="GIS_ID">mstn_040</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=7</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SW CORNER OF CONNECTICUT AVENUE NW AND WOODLEY STREET NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="ADDRESS_ID">294827</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.052876222192893,38.925457070912692</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Anacostia</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">28</SimpleData>
+		<SimpleData name="GIS_ID">mstn_001</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=85</SimpleData>
+		<SimpleData name="EXIT_TO_ST">INTERSECTION OF HOWARD ROAD SE AND SHANNON PLACE SE</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green</SimpleData>
+		<SimpleData name="ADDRESS_ID">294867</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.995070066083215,38.862298360324679</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Union Station</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">29</SimpleData>
+		<SimpleData name="GIS_ID">mstn_037</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=25</SimpleData>
+		<SimpleData name="EXIT_TO_ST">EAST OF 1ST STREET NE AND MASSACHUSETTS AVENUE NE AND G STREET NE</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="ADDRESS_ID">294849</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.00722876066969,38.898399522448969</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Judiciary Sq</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">30</SimpleData>
+		<SimpleData name="GIS_ID">mstn_021</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=23</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SOUTH SIDE OF F STREET NW BETWEEN 4TH STREET NW AND 5TH STREET NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="ADDRESS_ID">294829</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.017525276719041,38.897059761435052</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Columbia Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">31</SimpleData>
+		<SimpleData name="GIS_ID">mstn_007</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=75</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF IRVING STREET NW AND 14TH STREET NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green,yellow</SimpleData>
+		<SimpleData name="ADDRESS_ID">294815</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.032429694346845,38.928876254911437</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>L'Enfant Plaza</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">32</SimpleData>
+		<SimpleData name="GIS_ID">mstn_022</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=82</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SE CORNER OF 9TH STREET SW AND D STREET SW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green, yellow, orange, blue</SimpleData>
+		<SimpleData name="ADDRESS_ID">294875</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.023485445075224,38.884253156179533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stadium | Armory</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">33</SimpleData>
+		<SimpleData name="GIS_ID">mstn_034</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=63</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF 19TH STREET SE AND INDEPENDENCE AVENUE SE</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, orange</SimpleData>
+		<SimpleData name="ADDRESS_ID">294863</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.977065187054436,38.888290778402357</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Friendship Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">34</SimpleData>
+		<SimpleData name="GIS_ID">mstn_018</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=11</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF WISCONSIN AVENUE NW AND WESTERN AVENUE NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="ADDRESS_ID">294847</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.085402122521359,38.960748048781049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Minnesota Ave</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">35</SimpleData>
+		<SimpleData name="GIS_ID">mstn_025</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=64</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SW SIDE OF KENILWORTH AVENUE NE</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">orange</SimpleData>
+		<SimpleData name="ADDRESS_ID">294856</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.947124845093896,38.899310714979734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tenleytown | AU</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">36</SimpleData>
+		<SimpleData name="GIS_ID">mstn_036</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=10</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NW CORNER OF ABLEMARLE STREET NW AND WISCONSIN AVENUE NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="ADDRESS_ID">294846</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.080087857949323,38.94828420567076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gallery Pl | Chinatown</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">37</SimpleData>
+		<SimpleData name="GIS_ID">mstn_019</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=21</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF 7TH STREET NW AND F STREET NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red, green, yellow</SimpleData>
+		<SimpleData name="ADDRESS_ID">294833</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.021567422353272,38.897544239524471</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Benning Road</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">38</SimpleData>
+		<SimpleData name="GIS_ID">mstn_002</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=90</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF BENNING ROAD NE AND CENTRAL AVENUE NE</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, orange</SimpleData>
+		<SimpleData name="ADDRESS_ID">294851</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.937449257309268,38.89040523258587</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Congress Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">39</SimpleData>
+		<SimpleData name="GIS_ID">mstn_008</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=86</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SOUTH SIDE OF ALABAMA AVENUE SE AT 13TH STREET SE</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green</SimpleData>
+		<SimpleData name="ADDRESS_ID">294865</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.987620431353477,38.844654667790941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Federal Center SW</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">40</SimpleData>
+		<SimpleData name="GIS_ID">mstn_014</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=58</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SOUTH SIDE OF D STREET SW BETWEEN 3RD STREET SW AND 4TH STREET SW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, orange</SimpleData>
+		<SimpleData name="ADDRESS_ID">294808</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.015962191245976,38.885002134546589</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>U St | African Amer Civil | War Mem | Cardozo</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">41</SimpleData>
+		<SimpleData name="GIS_ID">mstn_005</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=73</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SE CORNER  OF U STREET NW AND 13TH STREET NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green,yellow</SimpleData>
+		<SimpleData name="ADDRESS_ID">294840</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.029123999185657,38.916830808420201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>L'Enfant Plaza</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">42</SimpleData>
+		<SimpleData name="GIS_ID">mstn_022</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=82</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SOUTH SIDE OF D STREET SW BETWEEN 6TH STREET SW AND 7TH STREET SW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green, yellow, orange, blue</SimpleData>
+		<SimpleData name="ADDRESS_ID">294875</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.020828045373719,38.884689341884147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Navy Yard-Ballpark</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">43</SimpleData>
+		<SimpleData name="GIS_ID">mstn_028</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=84</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NW CORNER OF HALF STREET SE AND M STREET SE</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green</SimpleData>
+		<SimpleData name="ADDRESS_ID">294869</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.007133287011058,38.876278315014531</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Anacostia</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">44</SimpleData>
+		<SimpleData name="GIS_ID">mstn_001</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=85</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF HOWARD ROAD SE AND I - 295 SE</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green</SimpleData>
+		<SimpleData name="ADDRESS_ID">294867</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.996022894293233,38.864435982096232</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Congress Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">45</SimpleData>
+		<SimpleData name="GIS_ID">mstn_008</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=86</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NORTH SIDE OF ALABAMA AVENUE SE AT 13TH STREET SE</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green</SimpleData>
+		<SimpleData name="ADDRESS_ID">294865</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.98777759963761,38.845397673862038</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Smithsonian</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">46</SimpleData>
+		<SimpleData name="GIS_ID">mstn_033</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=54</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NW CORNER OF JEFFERSON DRIVE SW AND 12TH STREET SW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, orange</SimpleData>
+		<SimpleData name="ADDRESS_ID">294876</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.028437439652137,38.889078278016797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>McPherson Sq</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">47</SimpleData>
+		<SimpleData name="GIS_ID">mstn_023</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=36</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SW CORNER OF VERMONT AVENUE NW AND I STREET NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, orange</SimpleData>
+		<SimpleData name="ADDRESS_ID">294841</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.034857157214645,38.901162139071047</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Anacostia</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">48</SimpleData>
+		<SimpleData name="GIS_ID">mstn_001</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=85</SimpleData>
+		<SimpleData name="EXIT_TO_ST">INTERSECTION OF HOWARD ROAD SE AND SHANNON PLACE SE</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green</SimpleData>
+		<SimpleData name="ADDRESS_ID">294867</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.995466453422495,38.862169452951747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NoMa-Gallaudet U</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">49</SimpleData>
+		<SimpleData name="GIS_ID">mstn_029</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=108</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NORTH SIDE OF M STREET NE AT INTERSECTION WITH DELAWARE AVENUE NE</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="ADDRESS_ID">294857</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.003828526913537,38.90571764135273</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Archives | Navy Mem Elevator</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">50</SimpleData>
+		<SimpleData name="GIS_ID">mstn_027</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=81</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF 7TH STREET NW AND PENNSYLVANIA AVENUE NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green,yellow</SimpleData>
+		<SimpleData name="ADDRESS_ID">294835</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.022081004125496,38.893877225665328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Capitol South Elevator</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">51</SimpleData>
+		<SimpleData name="GIS_ID">mstn_004</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=59</SimpleData>
+		<SimpleData name="EXIT_TO_ST">WEST SIDE OF 1ST STREET SE BETWEEN C STREET SE AND D STREET SE</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, orange</SimpleData>
+		<SimpleData name="ADDRESS_ID">294860</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.006075775254999,38.885180683476186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cleveland Park Elevator</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">52</SimpleData>
+		<SimpleData name="GIS_ID">mstn_006</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=8</SimpleData>
+		<SimpleData name="EXIT_TO_ST">EAST SIDE OF CONNECTICUT AVENUE NW BETWEEN PORTER STREET NW AND ORDWAY STREET NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="ADDRESS_ID">294817</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.058437113427345,38.935776981251422</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eastern Market Elevator</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">53</SimpleData>
+		<SimpleData name="GIS_ID">mstn_011</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=60</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SOUTH SIDE OF PENNSYLVANIA AVENUE SE BETWEEN 7TH STREET SE AND 8TH STREET SE</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, orange</SimpleData>
+		<SimpleData name="ADDRESS_ID">294870</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.996040452001253,38.884261123217705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Federal Triangle Elevator</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">54</SimpleData>
+		<SimpleData name="GIS_ID">mstn_015</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=53</SimpleData>
+		<SimpleData name="EXIT_TO_ST">RONALD REAGAN BUILDING - WEST SIDE OF 12TH STREET NW BETWEEN PENNSYLVANIA AVENUE NW AND CONSTITUTION AVENUE NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, orange</SimpleData>
+		<SimpleData name="ADDRESS_ID">294809</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.028315817087815,38.893777401108061</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gallery Pl | Chinatown</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">55</SimpleData>
+		<SimpleData name="GIS_ID">mstn_019</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=21</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SE CORNER OF 9TH STREET NW AND G STREET NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red, green, yellow</SimpleData>
+		<SimpleData name="ADDRESS_ID">294833</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.02378099001487,38.898165918454843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gallery Pl | Chinatown</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">56</SimpleData>
+		<SimpleData name="GIS_ID">mstn_019</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=21</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SE CORNER OF 7TH STREET NW AND H STREET NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red, green, yellow</SimpleData>
+		<SimpleData name="ADDRESS_ID">294833</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.021655681434339,38.899640054837334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Metro Center</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">57</SimpleData>
+		<SimpleData name="GIS_ID">mstn_024</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=1</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF G STREET NW AND 12TH STREET NW </SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red, blue, orange</SimpleData>
+		<SimpleData name="ADDRESS_ID">294812</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.027893882010915,38.898526550383629</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Metro Center</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">58</SimpleData>
+		<SimpleData name="GIS_ID">mstn_024</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=1</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SE CORNER OF G STREET NW AND 13TH STREET NW </SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red, blue, orange</SimpleData>
+		<SimpleData name="ADDRESS_ID">294812</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.029452222048846,38.898141132401399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Metro Center</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">59</SimpleData>
+		<SimpleData name="GIS_ID">mstn_024</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=1</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SW CORNER OF F STREET NW AND 12TH STREET NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red, blue, orange</SimpleData>
+		<SimpleData name="ADDRESS_ID">294812</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.028375551521492,38.897127651608422</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Farragut North</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">60</SimpleData>
+		<SimpleData name="GIS_ID">mstn_012</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=4</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SW CORNER OF L STREET NW AND CONNECTICUT AVENUE NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="ADDRESS_ID">294828</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.040130222461812,38.903589847485492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Farragut North</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">61</SimpleData>
+		<SimpleData name="GIS_ID">mstn_012</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=4</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF 17TH STREET NW AND K STREET NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="ADDRESS_ID">294828</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.039179553620855,38.902781481058803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cleveland Park</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">62</SimpleData>
+		<SimpleData name="GIS_ID">mstn_006</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=8</SimpleData>
+		<SimpleData name="EXIT_TO_ST">WEST SIDE OF CONNECTICUT AVENUE NW BETWEEN PORTER STREET NW AND ORDWAY STREET NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="ADDRESS_ID">294817</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.059006889352034,38.936145516843808</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Van Ness | UDC</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">63</SimpleData>
+		<SimpleData name="GIS_ID">mstn_038</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=9</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NW CORNER OF CONNECTICUT AVENUE NW AND VEAZEY TERRACE NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="ADDRESS_ID">294824</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.063525773465287,38.944555526517277</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Van Ness | UDC</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">64</SimpleData>
+		<SimpleData name="GIS_ID">mstn_038</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=9</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF CONNECTICUT AVENUE AND VEAZEY TERRACE NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="ADDRESS_ID">294824</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.063995966006274,38.944476177278418</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Georgia Ave | Petworth</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">65</SimpleData>
+		<SimpleData name="GIS_ID">mstn_020</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=76</SimpleData>
+		<SimpleData name="EXIT_TO_ST">WEST SIDE OF GEORGIA AVENUE NW BETWEEN QUINCY STREET NW AND NEW HAMPSHIRE AVENUE NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green,yellow</SimpleData>
+		<SimpleData name="ADDRESS_ID">294832</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.02471477373291,38.937128794450501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Georgia Ave | Petworth</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">66</SimpleData>
+		<SimpleData name="GIS_ID">mstn_020</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=76</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF GEORGIA AVENUE NW AND NEW HAMPSHIRE AVE NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green,yellow</SimpleData>
+		<SimpleData name="ADDRESS_ID">294832</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.024160806783897,38.93695142877452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Columbia Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">67</SimpleData>
+		<SimpleData name="GIS_ID">mstn_007</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=75</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SW CORNER OF IRVING STREET NW AND 14TH STREET NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green,yellow</SimpleData>
+		<SimpleData name="ADDRESS_ID">294815</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.033032040432815,38.928618916879053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dupont Circle</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">68</SimpleData>
+		<SimpleData name="GIS_ID">mstn_010</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=6</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SE CORNER OF 19TH STREET NW AND DUPONT CIRCLE NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="ADDRESS_ID">294836</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0433192930102,38.908682886128517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Friendship Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">69</SimpleData>
+		<SimpleData name="GIS_ID">mstn_018</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=11</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SW CORNER OF WISCONSIN AVENUE NW AND WESTERN AVENUE NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="ADDRESS_ID">294847</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.085765329327884,38.960453083843184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brookland | CUA</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">70</SimpleData>
+		<SimpleData name="GIS_ID">mstn_003</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=27</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF JOHN MCCORMICK ROAD NE AND MICHIGAN AVENUE NE</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="ADDRESS_ID">294853</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.995044660524897,38.933834318598727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Deanwood</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">71</SimpleData>
+		<SimpleData name="GIS_ID">mstn_009</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=65</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SOUTH SIDE OF POLK STREET NE AT OLIVE STREET NE</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">orange</SimpleData>
+		<SimpleData name="ADDRESS_ID">294858</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.934722619264576,38.908267505942156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Deanwood</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">72</SimpleData>
+		<SimpleData name="GIS_ID">mstn_009</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=65</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NORTH SIDE OF MINNESOTA AVENUE NE AT 48TH STREET NE</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">orange</SimpleData>
+		<SimpleData name="ADDRESS_ID">294858</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.935172477221258,38.908560834027419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shaw | Howard Univ</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">73</SimpleData>
+		<SimpleData name="GIS_ID">mstn_032</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=72</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF R STREET NW AND 8TH STREET NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green,yellow</SimpleData>
+		<SimpleData name="ADDRESS_ID">294838</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.022598085333811,38.912781330065634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NoMa-Gallaudet U</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">74</SimpleData>
+		<SimpleData name="GIS_ID">mstn_029</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=108</SimpleData>
+		<SimpleData name="EXIT_TO_ST">EAST SIDE OF 2ND STREET NE AT INTERSECTION WITH N STREET NE </SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="ADDRESS_ID">294857</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.003430469519884,38.907286966243362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Takoma</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">75</SimpleData>
+		<SimpleData name="GIS_ID">mstn_035</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=29</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE SIDE OF CEDAR STREET NW AND BLAIR ROAD NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="ADDRESS_ID">294822</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.017415567321365,38.975103948491892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fort Totten</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">76</SimpleData>
+		<SimpleData name="GIS_ID">mstn_017</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=28</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NORTH SIDE OF GALLOWAY STREET NE</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red, green, yellow</SimpleData>
+		<SimpleData name="ADDRESS_ID">294852</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.00249101483854,38.952653872494786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tenleytown | AU</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">77</SimpleData>
+		<SimpleData name="GIS_ID">mstn_036</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=10</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF ABLEMARLE STREET NW AND WISCONSIN AVENUE NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="ADDRESS_ID">294846</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.079462493339975,38.948079369698483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cleveland Park </name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">78</SimpleData>
+		<SimpleData name="GIS_ID">mstn_006</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=8</SimpleData>
+		<SimpleData name="EXIT_TO_ST">EAST SIDE OF CONNECTICUT AVENUE NW BETWEEN PORTER STREET NW AND ORDWAY STREET NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="ADDRESS_ID">294817</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.058537425600363,38.935984684467471</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brookland | CUA</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">79</SimpleData>
+		<SimpleData name="GIS_ID">mstn_003</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=27</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SW CORNER OF MICHIGAN AVENUE NE AND 9TH STREET NE</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="ADDRESS_ID">294853</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.99436828480718,38.933630339967614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Woodley Park Zoo | Adams Morgan</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">80</SimpleData>
+		<SimpleData name="GIS_ID">mstn_040</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=7</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SE CORNER OF CONNECTICUT AVENUE NW AND 24TH STREET NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="ADDRESS_ID">294827</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.05238323295886,38.924510042687224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rhode Island Ave</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">81</SimpleData>
+		<SimpleData name="GIS_ID">mstn_031</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=26</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SOUTH SIDE OF RHODE ISLAND AVENUE NE AT RHODE ISLAND PLACE SHOPPING CENTER</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="ADDRESS_ID">294859</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.996074682808384,38.920478494095256</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>U St | African Amer Civil | War Mem | Cardozo</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">82</SimpleData>
+		<SimpleData name="GIS_ID">mstn_005</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=73</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SW CORNER OF U STREET NW AND VERMONT AVENUE NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green,yellow</SimpleData>
+		<SimpleData name="ADDRESS_ID">294840</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.025964353304531,38.916794069590004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shaw | Howard Univ</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">83</SimpleData>
+		<SimpleData name="GIS_ID">mstn_032</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=72</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF S STREET NW AND 7TH STREET NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green,yellow</SimpleData>
+		<SimpleData name="ADDRESS_ID">294838</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.021684156213411,38.914505924418215</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dupont Circle</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">84</SimpleData>
+		<SimpleData name="GIS_ID">mstn_010</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=6</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SE CORNER OF 20TH STREET NW AND Q STREET NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="ADDRESS_ID">294836</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.044617696374914,38.910945780306882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Farragut North</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">85</SimpleData>
+		<SimpleData name="GIS_ID">mstn_012</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=4</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF L STREET NW AND CONNECTICUT AVENUE NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+		<SimpleData name="ADDRESS_ID">294828</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.039833846434419,38.903930455730929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mt Vernon Sq | 7th St | Convention Cen</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">86</SimpleData>
+		<SimpleData name="GIS_ID">mstn_026</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=70</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SW CORNER OF 7TH STREET NW AND M STREET NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green, yellow</SimpleData>
+		<SimpleData name="ADDRESS_ID">294834</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.022149963329852,38.905436073822734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>McPherson Sq</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">87</SimpleData>
+		<SimpleData name="GIS_ID">mstn_023</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=36</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SW CORNER OF 14TH STREET NW AND I STREET NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, orange</SimpleData>
+		<SimpleData name="ADDRESS_ID">294841</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.032134280659434,38.9008825976873</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Farragut West</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">88</SimpleData>
+		<SimpleData name="GIS_ID">mstn_013</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=38</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NW CORNER OF 18TH STREET NW AND I STREET NW</SimpleData>
+		<SimpleData name="FEATURECOD">1370</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, orange</SimpleData>
+		<SimpleData name="ADDRESS_ID">294819</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.041946885890042,38.901481037545857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW CARROLLTON</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">89</SimpleData>
+		<SimpleData name="GIS_ID">mstn_069</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=68</SimpleData>
+		<SimpleData name="EXIT_TO_ST">WEST SIDE OF GARDEN CITY DR </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">orange</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.872402247176538,38.948407800017023</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SILVER SPRING</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">90</SimpleData>
+		<SimpleData name="GIS_ID">mstn_076</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=31</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF EAST-WEST HWY AND COLESVILE RD</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.031502296210064,38.994207803680617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>W FALLS CHURCH</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">91</SimpleData>
+		<SimpleData name="GIS_ID">mstn_085</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=101</SimpleData>
+		<SimpleData name="EXIT_TO_ST">WEST SIDE OF DULLES TOO RD BETWEEN I - 66 W AND I -66 E </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">orange</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.188902343858359,38.900707779496528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SHADY GROVE</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">92</SimpleData>
+		<SimpleData name="GIS_ID">mstn_075</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=18</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF REDLAND RD AND SOMERVILLE DR </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.164302350410011,39.120307823943477</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SHADY GROVE</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">93</SimpleData>
+		<SimpleData name="GIS_ID">mstn_075</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=18</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF REDLAND RD AND SOMERVILLE DR </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.165002347374553,39.119907824705926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SOUTHERN AVE</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">94</SimpleData>
+		<SimpleData name="GIS_ID">mstn_077</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=107</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SW CORNER OF SOUTHERN AVE SE AND VALLEY TERRACE SE</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.975802272346741,38.840407775235072</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SPRING HILL</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">95</SimpleData>
+		<SimpleData name="GIS_ID">mstn_078</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=114</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NORTH SIDE OF SPRING HILL RD </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">silver</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.240802360925656,38.929307783402258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GREENBELT</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">96</SimpleData>
+		<SimpleData name="GIS_ID">mstn_058</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=80</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF 53RD AVE AND LACKAWANNA ST</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.912002263474406,39.010807813082465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SUITLAND</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">97</SimpleData>
+		<SimpleData name="GIS_ID">mstn_079</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=88</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NORTH SIDE OF SILVER HILL RD</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.932102257170158,38.844407778143889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>COURT HOUSE</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">98</SimpleData>
+		<SimpleData name="GIS_ID">mstn_049</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=96</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SW OF N UHLE ST AND CLARENDON BLVD</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">orange, silver</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.085002310314209,38.891307782613296</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>COURT HOUSE</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">99</SimpleData>
+		<SimpleData name="GIS_ID">mstn_049</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=96</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NORTHEN SIDE OF ARLINGTON COUNTY DMV SELECT BUILDING </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">orange, silver</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.085302308354045,38.890307780237798</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TYSONS CORNER</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">100</SimpleData>
+		<SimpleData name="GIS_ID">mstn_081</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=112</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF TYSONS BLVD AND CHAIN BRIDGE RD </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">silver</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.222402356123823,38.919807781107423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GREENSBORO</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">101</SimpleData>
+		<SimpleData name="GIS_ID">mstn_059</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=113</SimpleData>
+		<SimpleData name="EXIT_TO_ST">EAST SIDE OF VA-7 W AND LEESBURG PIKE</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">silver</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.233002359810172,38.921207782725219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ROSSLYN</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">102</SimpleData>
+		<SimpleData name="GIS_ID">mstn_074</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=41</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NORTH SIDE OF WILSON BLVD BETWEEN FORT MYER DR AND N MOORE ST </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">orange, silver, blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.072202306124652,38.895907783829024</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PENTAGON</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">103</SimpleData>
+		<SimpleData name="GIS_ID">mstn_070</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=43</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NW CORNER OF N ROTARY RD AND S EADS ST</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, yellow</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.053502295351137,38.869907778335943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DUNN LORING</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">104</SimpleData>
+		<SimpleData name="GIS_ID">mstn_051</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=102</SimpleData>
+		<SimpleData name="EXIT_TO_ST">BY GALLOWS ROAD AND I 66 HWY </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">orange</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.228402353100691,38.882807776685574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCLEAN</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">105</SimpleData>
+		<SimpleData name="GIS_ID">mstn_065</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=111</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF COLSHIRE MEADOW DR AND COLSHIRE DR</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">silver</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.208302351891163,38.924607785709071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRADDOCK ROAD</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">106</SimpleData>
+		<SimpleData name="GIS_ID">mstn_042</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=47</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NW CORNER OF MT VERNON AVE AND E BRADDOCK RD </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, yellow</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.053802296629343,38.813707769708266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HUNTINGTON</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">107</SimpleData>
+		<SimpleData name="GIS_ID">mstn_061</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=50</SimpleData>
+		<SimpleData name="EXIT_TO_ST">THE CLOSEST EXIT TO N KINGS HWY</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">yellow</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.075502296996234,38.792707762739177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>COLLEGE PARK</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">108</SimpleData>
+		<SimpleData name="GIS_ID">mstn_048</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=79</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NORTH SIDE OF CALVERT RD BETWEEN COLUMBIA AVE AND PAINT BRANCH PKY</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.92890226941185,38.978307807297746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VAN DORN ST</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">109</SimpleData>
+		<SimpleData name="GIS_ID">mstn_082</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=94</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SW CORNER OF METRO RD AND EISENHOWER AVE </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.129402317621171,38.799407763742025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FRANCONIA-SPRINGF'LD</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">110</SimpleData>
+		<SimpleData name="GIS_ID">mstn_055</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=95</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SOUTH SIDE OF FRANCONIA-SPRINGFIELD PKWY</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.169502328622158,38.767207754769515</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CLARENDON</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">111</SimpleData>
+		<SimpleData name="GIS_ID">mstn_047</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=97</SimpleData>
+		<SimpleData name="EXIT_TO_ST">WEST SIDE OF N HIGHLAND ST BETWEEN WILSON BLVD AND CLARENDON BLVD</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">orange, silver</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.095202314876474,38.887107781005206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>E FALLS CHURCH</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">112</SimpleData>
+		<SimpleData name="GIS_ID">mstn_052</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=100</SimpleData>
+		<SimpleData name="EXIT_TO_ST">BY N SYCAMORE ST AND I 66 HWY</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">orange, silver</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.156602329794495,38.88590777661296</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VIENNA</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">113</SimpleData>
+		<SimpleData name="GIS_ID">mstn_083</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=103</SimpleData>
+		<SimpleData name="EXIT_TO_ST">WEST SIDE OF VADEN DR BETWEEN I - 66 W AND I - 66 E</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">orange</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.271402363605688,38.877607771675116</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MEDICAL CENTER</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">114</SimpleData>
+		<SimpleData name="GIS_ID">mstn_066</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=13</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SW SIDE OF SOUTH DR AND ROCKVILLE PIKE </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.09780232178737,38.999107803311077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BALLSTON</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">115</SimpleData>
+		<SimpleData name="GIS_ID">mstn_046</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=99</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NW CORNER OF N FAIRFAX DR AND N STUART ST </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">orange, silver</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.11210231525601,38.882407778025794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NEW CARROLLTON</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">116</SimpleData>
+		<SimpleData name="GIS_ID">mstn_069</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=68</SimpleData>
+		<SimpleData name="EXIT_TO_ST">WEST SIDE OF GARDEN CITY DR </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">orange</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.87180224437796,38.94790780292081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FRIENDSHIP HEIGHTS</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">117</SimpleData>
+		<SimpleData name="GIS_ID">mstn_056</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=11</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE SIDE OF WESTERN AVE AND MD-355 S</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.086102310963966,38.960907797284598</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WIEHLE-RESTON EAST</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">118</SimpleData>
+		<SimpleData name="GIS_ID">mstn_089</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=115</SimpleData>
+		<SimpleData name="EXIT_TO_ST">EAST SIDE OF WIEHIE AVE </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">silver</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.339902393771794,38.946907783026234</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PRINCE GEORGES PLAZA</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">119</SimpleData>
+		<SimpleData name="GIS_ID">mstn_072</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=78</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SW CORNER OF EAST-WEST HWY AND BELCREST CENTER DR </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.955602274301597,38.964807802185945</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NAYLOR ROAD</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">120</SimpleData>
+		<SimpleData name="GIS_ID">mstn_068</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=87</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NORTH SIDE OF NAYLOR RD BETWEEN SUITLAND PKY AND BRANCH AVE MD-5 N </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.956802266227299,38.851007778812928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VIRGINIA SQUARE</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">121</SimpleData>
+		<SimpleData name="GIS_ID">mstn_084</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=98</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SOUTH SIDE OF N FAIRFAX DR BETWEEN N NELSON ST AND N MONROE ST </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">orange, silver</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.10340231397403,38.883107779294669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ROSSLYN</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">122</SimpleData>
+		<SimpleData name="GIS_ID">mstn_074</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=41</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NORTH SIDE OF WILSON BLVD BETWEEN N MOORE ST AND N LYNN ST </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">orange, silver, blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.071402307166693,38.896107783362773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ARLINGTON CEMETERY</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">123</SimpleData>
+		<SimpleData name="GIS_ID">mstn_045</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=42</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NW CORNER OF MEMORIAL AVE AND JEFFERSON DAVIS HWY</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.063702300358358,38.88460778036054</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PENTAGON CITY</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">124</SimpleData>
+		<SimpleData name="GIS_ID">mstn_071</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=44</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF S HAYES ST AND 12TH ST S </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, yellow</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.059002300253056,38.862907777820666</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>COURT HOUSE</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">125</SimpleData>
+		<SimpleData name="GIS_ID">mstn_049</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=96</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SE CORNER OF CLARENDON BLVD AND 15TH ST N</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">orange, silver</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.086102307233801,38.890507783977242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CLARENDON</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">126</SimpleData>
+		<SimpleData name="GIS_ID">mstn_047</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=97</SimpleData>
+		<SimpleData name="EXIT_TO_ST">WEST SIDE OF N HIGHLAND ST BETWEEN WILSON BLVD AND CLARENDON BLVD</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">orange, silver</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.095702315864074,38.886707781776039</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LANDOVER</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">127</SimpleData>
+		<SimpleData name="GIS_ID">mstn_063</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=67</SimpleData>
+		<SimpleData name="EXIT_TO_ST">EAST SIDE OF US-50 E</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">orange</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.89120225055774,38.933407799412144</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GLENMONT</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">128</SimpleData>
+		<SimpleData name="GIS_ID">mstn_057</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=34</SimpleData>
+		<SimpleData name="EXIT_TO_ST">EAST SIDE OF GEORGIA AVE </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.053502306955664,39.061907818691481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>COLLEGE PARK</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">129</SimpleData>
+		<SimpleData name="GIS_ID">mstn_048</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=79</SimpleData>
+		<SimpleData name="EXIT_TO_ST">WEST SIDE OF RIVER RD BETWEEN COLUMBIA AVE AND PAINT BRANCH PKY</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.927902267117886,38.978207805653796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SPRING HILL</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">130</SimpleData>
+		<SimpleData name="GIS_ID">mstn_078</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=114</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NORTH SIDE OF SPRING HILL RD </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">silver</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.241702361466736,38.928407782396086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SILVER SPRING</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">131</SimpleData>
+		<SimpleData name="GIS_ID">mstn_076</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=31</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF EAST-WEST HWY AND COLESVILE RD</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.031902303074673,38.994107805627927</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PENTAGON</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">132</SimpleData>
+		<SimpleData name="GIS_ID">mstn_070</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=43</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NW CORNER OF N ROTARY RD AND S EADS ST</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, yellow</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.054402295487407,38.869707778937844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NATIONAL ARPT</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">133</SimpleData>
+		<SimpleData name="GIS_ID">mstn_067</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=93</SimpleData>
+		<SimpleData name="EXIT_TO_ST">WEST SIDE OF S SMITH BLVD </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, yellow</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.043702296371322,38.852207777246385</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KING STREET</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">134</SimpleData>
+		<SimpleData name="GIS_ID">mstn_062</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=48</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF CALLAHAN DR AND KING ST </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, yellow</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.061202297205753,38.806307765463075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ADDISON ROAD</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">135</SimpleData>
+		<SimpleData name="GIS_ID">mstn_044</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=92</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SW CORNER OF CENTRAL AVENUE AND ADDISON RD S </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">silver, blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.895802252001914,38.886707789285211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BALLSTON</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">136</SimpleData>
+		<SimpleData name="GIS_ID">mstn_046</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=99</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SE CORNER OF N STUART ST AND N FAIRFAX DR</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">orange, silver</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.111402317569201,38.881907780907277</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HUNTINGTON</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">137</SimpleData>
+		<SimpleData name="GIS_ID">mstn_061</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=50</SimpleData>
+		<SimpleData name="EXIT_TO_ST">THE CLOSEST EXIT TO HUNTINGTON AVE</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">yellow</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.07520229930941,38.794807761868981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WEST HYATTSVILLE</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">138</SimpleData>
+		<SimpleData name="GIS_ID">mstn_086</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=77</SimpleData>
+		<SimpleData name="EXIT_TO_ST">WEST SIDE OF JAMESTOWN RD </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.968902279897293,38.955907798520371</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PRINCE GEORGES PLAZA</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">139</SimpleData>
+		<SimpleData name="GIS_ID">mstn_072</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=78</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SW CORNER OF EAST-WEST HWY AND BELCREST CENTER DR </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.955602274460176,38.965807800714053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FRIENDSHIP HEIGHTS</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">140</SimpleData>
+		<SimpleData name="GIS_ID">mstn_056</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=11</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NW SIDE OF WESTERN AVE AND MD-355 N </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0856023178968,38.961207795489578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRANCH AVENUE</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">141</SimpleData>
+		<SimpleData name="GIS_ID">mstn_042</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=89</SimpleData>
+		<SimpleData name="EXIT_TO_ST">WEST SIDE OF OLD SOPER RD BETWEEN AUTH WAY AND CAPITAL GATEWAY DR</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.912602255199033,38.827007775641739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FRANCONIA-SPRINGF'LD</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">142</SimpleData>
+		<SimpleData name="GIS_ID">mstn_055</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=95</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SOUTH SIDE OF FRANCONIA-SPRINGFIELD PKWY</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.169102329395272,38.766707753742729</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>COURT HOUSE</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">143</SimpleData>
+		<SimpleData name="GIS_ID">mstn_049</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=96</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SE CORNER OF 15TH ST N AND N UHLE ST</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">orange, silver</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.084902308632522,38.890607781582112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>COURT HOUSE</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">144</SimpleData>
+		<SimpleData name="GIS_ID">mstn_049</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=96</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NW CORNER OF N UHLE ST AND WILSON BLVD</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">orange, silver</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.085002310705505,38.891707782175487</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>W FALLS CHURCH</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">145</SimpleData>
+		<SimpleData name="GIS_ID">mstn_085</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=101</SimpleData>
+		<SimpleData name="EXIT_TO_ST">WEST SIDE OF DULLES TOO RD BETWEEN I - 66 W AND I -66 E </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">orange</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.189002345615876,38.901107778917194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GROSVENOR</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">146</SimpleData>
+		<SimpleData name="GIS_ID">mstn_060</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=14</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SW OF TUCKERMAN LN AND ROCKVILLE PIKE </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.104502327488802,39.028807808813788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TWINBROOK</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">147</SimpleData>
+		<SimpleData name="GIS_ID">mstn_080</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=16</SimpleData>
+		<SimpleData name="EXIT_TO_ST">WEST SIDE OF CHAPMAN AVE </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.120702332593254,39.062107816312135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PENTAGON</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">148</SimpleData>
+		<SimpleData name="GIS_ID">mstn_070</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=43</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NW CORNER OF N ROTARY RD AND S EADS ST</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, yellow</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.054702300670996,38.869107779458041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EISENHOWER AVENUE</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">149</SimpleData>
+		<SimpleData name="GIS_ID">mstn_053</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=49</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SOUTH SIDE OF EISENHOWER AVE</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">yellow</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.070902300311403,38.800607764451442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CHEVERLY</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">150</SimpleData>
+		<SimpleData name="GIS_ID">mstn_044</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=66</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SW CORNER OF JOHN HANSON HWY AND COLUMBIA PARK RD</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">orange</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.916702256781164,38.916107792861467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BETHESDA</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">151</SimpleData>
+		<SimpleData name="GIS_ID">mstn_041</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=12</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SW CORNER OF EAST-WEST HWY AND WISCONSIN AVE</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.094602317675339,38.984707802702609</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WHITE FLINT</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">152</SimpleData>
+		<SimpleData name="GIS_ID">mstn_088</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=15</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF ROCKVILLE PIKE AND MARINELLI RD </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.112602326055594,39.047307812581415</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WHITE FLINT</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">153</SimpleData>
+		<SimpleData name="GIS_ID">mstn_088</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=15</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NW CORNER OF ROCKVILLE PIKE AND MARINELLI RD </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.113202329017355,39.047207814340204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ROCKVILLE</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">154</SimpleData>
+		<SimpleData name="GIS_ID">mstn_073</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=17</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SOUTH SIDE OF PARK RD BETWEEN MD-355 N AND S STONESTREET AVE</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.146602341430707,39.084407816810412</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LARGO TOWN CENTER</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">155</SimpleData>
+		<SimpleData name="GIS_ID">mstn_064</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=109</SimpleData>
+		<SimpleData name="EXIT_TO_ST">WEST SIDE OF LOTTSFORD RD BETWEEN GRAND BLVD AND N HARRY S TRUMAN DR</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">silver, blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.84490223226986,38.899507794234843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VIENNA</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">156</SimpleData>
+		<SimpleData name="GIS_ID">mstn_083</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=103</SimpleData>
+		<SimpleData name="EXIT_TO_ST">WEST SIDE OF VADEN DR BETWEEN I - 66 W AND I - 66 E</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">orange</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.271402363674397,38.87780777189019</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GREENSBORO</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">157</SimpleData>
+		<SimpleData name="GIS_ID">mstn_059</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=113</SimpleData>
+		<SimpleData name="EXIT_TO_ST">WEST SIDE OF VA-7 ELEESBURG PIKE</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">silver</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.234202358626234,38.920707781474277</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WIEHLE-RESTON EAST</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">158</SimpleData>
+		<SimpleData name="GIS_ID">mstn_089</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=115</SimpleData>
+		<SimpleData name="EXIT_TO_ST">EAST SIDE OF WIEHIE AVE </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">silver</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.339202389495924,38.948307784361226</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WHEATON</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">159</SimpleData>
+		<SimpleData name="GIS_ID">mstn_087</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=33</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SW CORNER OF REEDIE DR AND GEORGIA AVE </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.051102308877489,39.038307813162973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PENTAGON CITY</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">160</SimpleData>
+		<SimpleData name="GIS_ID">mstn_071</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=44</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NW CORNER OF S HAYES ST AND 12TH ST S </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, yellow</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.059902300762943,38.862607776057125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PENTAGON CITY</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">161</SimpleData>
+		<SimpleData name="GIS_ID">mstn_071</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=44</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF S HAYES ST AND 12TH ST S </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, yellow</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.059102301493667,38.862607776122758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CRYSTAL CITY</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">162</SimpleData>
+		<SimpleData name="GIS_ID">mstn_050</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=45</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NW CORNER OF 18TH ST AND S BELL ST</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, yellow</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.051402295186747,38.858007775977029</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NATIONAL ARPT</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">163</SimpleData>
+		<SimpleData name="GIS_ID">mstn_067</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=93</SimpleData>
+		<SimpleData name="EXIT_TO_ST">WEST SIDE OF S SMITH BLVD</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, yellow</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.044702291478487,38.854607777369623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ARLINGTON CEMETERY</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">164</SimpleData>
+		<SimpleData name="GIS_ID">mstn_045</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=42</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SW CORNER OF MEMORIAL AVE AND JEFFERSON DAVIS HWY</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.06350230462229,38.884207781186618</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BETHESDA</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">165</SimpleData>
+		<SimpleData name="GIS_ID">mstn_041</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=12</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NW CORNER OF MONTGOMERY LN AND MD-355 S </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.094202318328144,38.9836078024938</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MEDICAL CENTER</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">166</SimpleData>
+		<SimpleData name="GIS_ID">mstn_066</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=13</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SW SIDE OF SOUTH DR AND ROCKVILLE PIKE </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.097102316601138,38.999007805463705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ROCKVILLE</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">167</SimpleData>
+		<SimpleData name="GIS_ID">mstn_073</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=17</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SOUTH SIDE OF PARK RD BETWEEN MD-355 N AND S STONESTREET AVE</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.146202341535755,39.084707818484141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SILVER SPRING</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">168</SimpleData>
+		<SimpleData name="GIS_ID">mstn_076</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=31</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF EAST-WEST HWY AND COLESVILE RD</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.031202297957222,38.993907805848835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FOREST GLEN</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">169</SimpleData>
+		<SimpleData name="GIS_ID">mstn_054</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=32</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SW CORNER OF FOREST GLEN RD AND GEORGIA AVE</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.04320230513099,39.015107807221462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FOREST GLEN</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">170</SimpleData>
+		<SimpleData name="GIS_ID">mstn_054</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=32</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SW CORNER OF FOREST GLEN RD AND GEORGIA AVE</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.043402301189161,39.015307807194567</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WHEATON</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">171</SimpleData>
+		<SimpleData name="GIS_ID">mstn_087</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=33</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SE CORNER OF REEDIE DR AND GEORGIA AVE </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.050302309807805,39.038307813449812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GLENMONT</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">172</SimpleData>
+		<SimpleData name="GIS_ID">mstn_057</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=34</SimpleData>
+		<SimpleData name="EXIT_TO_ST">EAST SIDE OF GEORGIA AVE </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.053602308609797,39.061707819250564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GREENBELT</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">173</SimpleData>
+		<SimpleData name="GIS_ID">mstn_058</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=80</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NE CORNER OF 53RD AVE AND LACKAWANNA ST</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.910902259239776,39.010907811342761</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SOUTHERN AVE</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">174</SimpleData>
+		<SimpleData name="GIS_ID">mstn_077</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=107</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SW CORNER OF SOUTHERN AVE SE AND VALLEY TERRACE SE</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.975902274524358,38.840507776786808</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CAPITOL HEIGHTS</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">175</SimpleData>
+		<SimpleData name="GIS_ID">mstn_043</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=91</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NORTH SIDE OF DAVEY ST BETWEEN SOUTHERN AVE AND EAST CAPITOL ST </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">silver, blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.912902256231845,38.889407790154124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GROSVENOR</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">176</SimpleData>
+		<SimpleData name="GIS_ID">mstn_060</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=14</SimpleData>
+		<SimpleData name="EXIT_TO_ST">SE OF TUCKERMAN LN AND ROCKVILLE PIKE </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.103602326510909,39.028907810500009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TWINBROOK</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">177</SimpleData>
+		<SimpleData name="GIS_ID">mstn_080</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=16</SimpleData>
+		<SimpleData name="EXIT_TO_ST">WEST SIDE OF CHAPMAN AVE </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.120302333074306,39.062307815834259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ROSSLYN</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">178</SimpleData>
+		<SimpleData name="GIS_ID">mstn_074</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=41</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NORTH SIDE OF WILSON BLVD BETWEEN FORT MYER DR AND N MOORE ST </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">orange, silver, blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.071802306847019,38.896007785126336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CRYSTAL CITY</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">179</SimpleData>
+		<SimpleData name="GIS_ID">mstn_050</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=45</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NW CORNER OF 18TH ST AND S BELL ST</SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">blue, yellow</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.050802300231979,38.858007776229513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CAPITOL HEIGHTS</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">180</SimpleData>
+		<SimpleData name="GIS_ID">mstn_043</SimpleData>
+		<SimpleData name="WEB_URL">http://www.wmata.com/rail/station_detail.cfm?station_id=91</SimpleData>
+		<SimpleData name="EXIT_TO_ST">NORTH SIDE OF DAVEY ST BETWEEN SOUTHERN AVE AND EAST CAPITOL ST </SimpleData>
+		<SimpleData name="DESCRIPTIO">Metro Station Entrance</SimpleData>
+		<SimpleData name="CAPTUREYEA">2016-01-08T00:00:00.000Z</SimpleData>
+		<SimpleData name="LINE">silver, blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.913302255911603,38.88920778636421</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
